@@ -1,0 +1,13 @@
+.example-spacer {
+  flex: 1 1 auto;
+}
+
+.container {
+  background-color: #3f3d3d
+}
+
+.example-card {
+  max-width: 400px;
+  margin-bottom: 8px;
+  
+}
